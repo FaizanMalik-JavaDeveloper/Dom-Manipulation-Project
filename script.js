@@ -11,7 +11,7 @@ function changeContent() {
     heading2.innerHTML = "Looking for <span>Jobs</span>";
     heading3.innerHTML = "MERN Stack Developer";
 
-    image.src = "/dom2.webp";
+    image.src = "dom2.webp";
 
     image.classList.add("fade");
 
@@ -21,7 +21,7 @@ function changeContent() {
     heading2.innerHTML = "Intern at <span>NoviTech</span>";
     heading3.innerHTML = "B.Tech CSE Graduate";
 
-    image.src = "/dom1.jpg";
+    image.src = "dom1.jpg";
 
     image.classList.add("fade");
 
